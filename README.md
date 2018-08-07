@@ -1,3 +1,2 @@
 # hello-world
-Learning Git.
-I am Suresh. Getting familiar with Git.
+I am babu from kerala.
